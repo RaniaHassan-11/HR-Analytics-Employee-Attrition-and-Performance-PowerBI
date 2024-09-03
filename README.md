@@ -2,10 +2,8 @@
 
 ## About Project :
 Employee attrition analytics is specifically focused on identifying why employees voluntarily leave, what might have prevented them from leaving, and how we can use data to predict attrition risk. Most importantly, this type of employee predictive analytics can be used to help organizations understand and design the interventions that will be most effective in reducing unwanted attrition.
---
 ## DataSet :
 https://lnkd.in/drH9eFKc
---
 ## Insights :
 1- The Research & Development department witnessed the highest attrition, accounting for 133 of the total ,followed
 by Sales and Human Resources.
